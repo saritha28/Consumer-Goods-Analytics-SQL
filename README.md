@@ -1,4 +1,4 @@
-# Project Title: Consumer Good Analytics using SQL for Atliq Hardwares
+# Consumer Good Analytics using SQL for Atliq Hardwares
 
 ## Overview
 - This project focuses on analyzing sales data for Atliq Hardwares, a leading computer hardware producer in India, to derive insights and support data-driven decision-making. The dataset includes information about sales, customers, products, and pricing.
