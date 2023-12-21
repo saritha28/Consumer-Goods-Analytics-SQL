@@ -5,7 +5,7 @@
 
 ## Project Structure
 - **Data Files**: Includes a SQL dump file for the database schema and data.
-- **SQL Queries**: Contains the `ad-hoc-requests.sql` file with all queries addressing various analyses based on ad hoc requests.
+- **SQL Queries**: Contains the `ad_hoc_requests.sql` file with all queries addressing various analyses based on ad hoc requests.
 - **Presentation**: Contains the presentation or reports generated from SQL queries and analyses.
 - **README**: Explains project overview, structure, and instructions.
 
@@ -18,7 +18,7 @@
 
 ## Instructions
 - **Data Setup**: Import the SQL dump file into your SQL database to create tables and populate data.
-- **Running Queries**: Use `ad-hoc-requests.sql` on your SQL database to perform various analyses.
+- **Running Queries**: Use `ad_hoc_requests.sql` on your SQL database to perform various analyses.
 - **Review Results**: Check outputs for insights and analysis.
 - **Presentation**: Refer to the presentation for a summarized view of findings.
 
